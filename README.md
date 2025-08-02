@@ -1,15 +1,8 @@
 <img src="banner.png" alt="Hello Banner" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Aamir Neyazi</h1>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Aamir Neyazi</h1>
 <h3 align="center">🚀 B.Tech CSE Student | 💻 Web Developer | 📊 Aspiring Data Scientist</h3>
 
-<p align="center">
-  <a href="mailto:aamirneyazi93@gmail.com"><img src="https://img.shields.io/badge/Gmail-aamirneyazi93@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="tel:+919006091659"><img src="https://img.shields.io/badge/Phone-+91%209006091659-blue?style=flat-square&logo=phone&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aamirneyazi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Aamir%20Neyazi-blue?style=flat-square&logo=linkedin" /></a>
-</p>
 
 ---
 
@@ -27,7 +20,7 @@
 - 🌱 Learning:  
   `DSA`, `Backend Development`, `Data Science`, `API Integration`
 - 💬 Ask me about:  
-  `Python`, `C++`, `Java`, `Flask`, `Git`, `Project Deployment`
+  `Python`, `C++`, `Java`, `Flask`, `SQL`, `Git`, `Project Deployment`
 - 🤝 Looking to collaborate on:  
   **Open Source**, **Web Projects**, **Real-World Problem Solvers**
 - 🎯 Goal: Become a **Data Scientist**
@@ -38,16 +31,14 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="./python.png" width=40 height=40 alt="AamirNeyazi" style="margin-bottom: 5px;" />
+  <img src="./c-.png" width=40 height=40 alt="AamirNeyazi" style="margin-bottom: 5px;" />
+  <img src="./java.png" width=40 height=40 alt="AamirNeyazi" style="margin-bottom: 5px;" />
+  <img src="./html.png" width=40 height=40 alt="AamirNeyazi" style="margin-bottom: 5px;" />
+  <img src="./css-3.png" width=40 height=40 alt="AamirNeyazi" style="margin-bottom: 5px;" />
+  <img src="./mysql.png" width=40 height=40 alt="AamirNeyazi" style="margin-bottom: 5px;" />
+  <img src="./flask.png" width=40 height=40 alt="AamirNeyazi" style="margin-bottom: 5px;" />
+  <img src="./github.png" width=40 height=40 alt="AamirNeyazi" style="margin-bottom: 5px;" />
 </p>
 
 ---
@@ -58,6 +49,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aamirneyazi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aamirneyazi&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AamirNeyazi2499&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" 
+    style="border-radius: 12px; width: 95%; max-width: 800px;" 
+    alt="Aamir Neyazi's GitHub Contribution Graph"
+  >
+</p>
+
+
 
 ---
 
@@ -99,5 +101,3 @@
 <img src="./linkedin.png" width=50 height=50 alt="aamirneyazi" style="margin-bottom: 5px;" />
 </a>
 </p>
----
-
