@@ -1,33 +1,103 @@
+<img src="banner.png" alt="Hello Banner" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Aamir Neyazi</h1>
-<h3 align="center">A passionate Data Science Enthusiast | Exploring Web Dev, DSA & Machine Learning</h3>
+<h3 align="center">🚀 B.Tech CSE Student | 💻 Web Developer | 📊 Aspiring Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aamirneyazi2499&label=Profile%20views&color=0e75b6&style=flat" alt="aamirneyazi2499" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aamirneyazi2499" alt="aamirneyazi2499" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@aamirneyazi" target="blank"><img src="https://img.shields.io/twitter/follow/@aamirneyazi?logo=twitter&style=for-the-badge" alt="@aamirneyazi" /></a> </p>
-
-- 🔭 I’m currently working on **Blog System Website Project using Flask, Html and Css**
-
-- 🌱 I’m currently learning **Web Dev, DSA, and Machine Learning**
-
-- 📫 How to reach me **aamirneyazi93@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@aamirneyazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aamirneyazi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aamir neyazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aamir neyazi" height="30" width="40" /></a>
-<a href="https://instagram.com/aamir_._10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aamir_._10" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@aamirneyazi93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aamirneyazi93" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aamirneyazi93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aamirneyazi93" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aamirneg1n7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aamirneg1n7" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:aamirneyazi93@gmail.com"><img src="https://img.shields.io/badge/Gmail-aamirneyazi93@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="tel:+919006091659"><img src="https://img.shields.io/badge/Phone-+91%209006091659-blue?style=flat-square&logo=phone&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aamirneyazi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Aamir%20Neyazi-blue?style=flat-square&logo=linkedin" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aamirneyazi2499&show_icons=true&locale=en&layout=compact" alt="aamirneyazi2499" /></p>
+### 🧑‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aamirneyazi2499&show_icons=true&locale=en" alt="aamirneyazi2499" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="right" alt="GIF description" src="./Skills_Animation_White.gif" style="width: 350px; height: auto;" >
+</picture>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aamirneyazi2499&" alt="aamirneyazi2499" /></p>
+- 🎓 I'm currently pursuing **B.Tech in Computer Science** 
+- 🛠️ Actively working on:  
+  `Flask Blog System Website`, `Women Safety Platform - ProtecHer`
+- 🌱 Learning:  
+  `DSA`, `Backend Development`, `Data Science`, `API Integration`
+- 💬 Ask me about:  
+  `Python`, `C++`, `Java`, `Flask`, `Git`, `Project Deployment`
+- 🤝 Looking to collaborate on:  
+  **Open Source**, **Web Projects**, **Real-World Problem Solvers**
+- 🎯 Goal: Become a **Data Scientist**
+- ⚡ Fun fact: I enjoy building and breaking projects to learn faster!
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aamirneyazi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aamirneyazi&theme=tokyonight&hide_border=true" width="49%"/>
+</p>
+
+---
+
+### 📂 Featured Projects
+
+- 🔒 [**ProtecHer - Women Safety Platform**] 
+  A women’s safety platform using CCTV, real-time location, and tutorials.  
+- 📝 **Flask Blog Website**  
+  Personal blogging platform with login/register and dashboard features.
+
+---
+
+
+
+
+
+
+### 📫 🤝Connect With Me🤝
+
+<p align="center">
+  
+<a href="mailto:aamirneyazi93@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="aamirneyazi93@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://x.com/AamirNeyazi" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="AamirNeyazi" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/aamir_._10/" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="aamir_._10/" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.github.com/AamirNeyazi2499" target="_blank">
+<img src="./github.png" width=50 height=50 alt="AamirNeyazi2499" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/aamirneyazi/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="aamirneyazi" style="margin-bottom: 5px;" />
+</a>
+</p>
+---
+
