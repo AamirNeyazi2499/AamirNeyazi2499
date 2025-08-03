@@ -65,7 +65,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aamirneyazi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aamirneyazi2499&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%"/>
   <img src="https://streak-stats.demolab.com?user=aamirneyazi2499&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
 </p>
 
