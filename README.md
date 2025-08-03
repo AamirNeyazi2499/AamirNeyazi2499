@@ -3,8 +3,6 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Aamir Neyazi 
 👋</h1>
 <h3 align="center">🚀 B.Tech CSE Student | 💻 Web Developer | 📊 Aspiring Data Scientist</h3>
-
-
 ---
 
 ### 🧑‍💻 About Me
@@ -43,6 +41,26 @@
 </p>
 
 ---
+### 🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 
+<p align="center">
+  <a href="https://github.com/AamirNeyazi2499">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=AamirNeyazi2499&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=AamirNeyazi2499&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=AamirNeyazi2499&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/daytonaio/daytona">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/AamirNeyazi2499/achievements?format=svg&limit=6"
+      width="400"
+    />
+  </a>
+</p>
+
+---
 
 ### 📊 GitHub Stats
 
@@ -69,9 +87,6 @@
   >
 </p>
 
-
-
-
 ---
 
 ### 📂 Featured Projects
@@ -82,11 +97,6 @@
   Personal blogging platform with login/register and dashboard features.
 
 ---
-
-
-
-
-
 
 ### 📫 🤝Connect With Me🤝
 
