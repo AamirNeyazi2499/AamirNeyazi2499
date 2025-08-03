@@ -48,7 +48,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aamirneyazi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aamirneyazi&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=aamirneyazi2499&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
 </p>
 
 ### 📈 Contribution Graph
@@ -59,6 +59,16 @@
     alt="Aamir Neyazi's GitHub Contribution Graph"
   >
 </p>
+
+### 📊 Most Used Languages  
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AamirNeyazi2499&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=ffffff" 
+    alt="Top Languages Used by Aamir Neyazi" 
+    style="border-radius: 12px;"
+  >
+</p>
+
 
 
 
