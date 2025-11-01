@@ -3,6 +3,7 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Aamir Neyazi 
 👋</h1>
 <h3 align="center">🚀 B.Tech CSE Student | 💻 Web Developer | 📊 Aspiring Data Scientist</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AamirNeyazi2499&label=Profile%20views&color=0e75b6&style=flat" alt="AamirNeyazi2499" /> </p>
 
 
 ### 🧑‍💻 About Me
@@ -87,7 +88,7 @@
   >
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AamirNeyazi2499&label=Profile%20views&color=0e75b6&style=flat" alt="AamirNeyazi2499" /> </p>
+
 
 
 ### 📂 Featured Projects
